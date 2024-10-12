@@ -1,0 +1,10 @@
+form {
+  width: fit-content;
+  margin: auto;
+  background-color: lightblue;
+  border-radius: 20px;
+  padding: 20px;
+}
+form div {
+  margin: 20px;
+}
