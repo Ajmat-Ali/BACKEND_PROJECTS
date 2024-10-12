@@ -13,7 +13,7 @@ Contributing
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Ajmat-Ali/file-uploader-downloader.git`.
+1. Clone the repository: `git clone [https://github.com/Ajmat-Ali/file-uploader-downloader.git](https://github.com/Ajmat-Ali/BACKEND_PROJECTS/tree/main/file-uploader-downloader)`.
 2. Navigate into the project directory: `cd file-uploader-downloader`.
 3. Install the dependencies: `npm install`.
 4. Start the server: `node index.js`
